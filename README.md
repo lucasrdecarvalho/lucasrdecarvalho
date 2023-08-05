@@ -1,4 +1,4 @@
-<h2> Hey, there! I'm Lucas, a brazilian lawyer learning how to program! ⚖️ </h2>
+<h2> Hey, there! I'm Lucas, a brazilian tax lawyer learning how to program! ⚖️ </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasrdecarvalho&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" />
