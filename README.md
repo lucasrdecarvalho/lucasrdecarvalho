@@ -1,12 +1,30 @@
-### Hi there 👋
-
+<h2> Hey, there! I'm Lucas, a brazilian lawyer learning how to program! ⚖️ </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasrdecarvalho&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrdecarvalho&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrdecarvalho&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
+<h3></h3>
+<h1>Contacts</h1><span class = "circle-image">
+ <img align= "right" height="100" width="100" src = "http://fundamentosdepython.com/wp-content/uploads/2023/08/Design-sem-nome-37.png" />
+</span>
+
+<div> 
+  <a href="https://www.instagram.com/lucas.rdecarvalho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucasrde-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+
+
+
 
 <!--
 **lucasrdecarvalho/lucasrdecarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
