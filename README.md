@@ -1,12 +1,14 @@
 <h2> Hey, there! I'm Lucas, a brazilian tax lawyer learning how to program! ⚖️ </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasrdecarvalho&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrdecarvalho&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrdecarvalho&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasrdecarvalho&theme=dark)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=110 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrdecarvalho&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
-
+-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
